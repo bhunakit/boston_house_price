@@ -29,3 +29,5 @@ The purpose of this project is to demonstrate how different regression models ca
 - scikit-learn
 - matplotlib
 - torch (PyTorch)
+
+  ### By Bhunakit Chantaraseno 6438143021
