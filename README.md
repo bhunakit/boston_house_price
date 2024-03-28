@@ -19,7 +19,7 @@ The purpose of this project is to demonstrate how different regression models ca
 
 ## Files
 - `housing.csv`: Dataset containing information about housing features and median housing prices.
-- `main.py`: Python script containing the code for loading data, preprocessing, model building, evaluation, and visualization.
+- `house_price_pred.ipynb`: Python script containing the code for loading data, preprocessing, model building, evaluation, and visualization.
 - `readme.md`: Markdown file containing information about the project, how it works, and its components.
 
 ## Dependencies
